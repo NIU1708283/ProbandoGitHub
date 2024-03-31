@@ -13,6 +13,6 @@ int main()
 {
 	int a = 0;
 	cout << a << endl;
-	// ñ: hola que tal bitch
+	// ñ: hola que tal bitch no se que mas
 	return 0;
 }
