@@ -14,7 +14,7 @@ int main()
 	int a = 0;
 	cout << a << endl;
 	// ñ: hola que tal bitch
-
+	// ? ire añadiendo cosas random sin parar??
 	/// vengo a añadir lo que sea
 	return 0;
 }
